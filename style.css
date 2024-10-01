@@ -89,9 +89,9 @@ font-size: 20px;
 	font-size: 15px;
 }
 .Profile_Picture img{
-	width: 150px;
-	height: 150px;
-	border-radius: 150px;
+	width: 200px;
+	height: 200px;
+	border-radius: 200px;
 	transition: all linear 0.5s;
 	border: 3px solid deepskyblue;
 }
