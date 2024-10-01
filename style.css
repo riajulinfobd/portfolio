@@ -73,7 +73,7 @@ color:black;
 }
 .text_box{
 width:50%;
-top:10%;
+top:5%;
 left:50%;
 text-align: center;
 color:white;
@@ -89,9 +89,9 @@ font-size: 20px;
 	font-size: 15px;
 }
 .Profile_Picture img{
-	width: 300px;
-	height: 300px;
-	border-radius:300px;
+	width: 250px;
+	height: 250px;
+	border-radius:250px;
 	transition: all linear 0.5s;
 	border: 3px solid deepskyblue;
 }
